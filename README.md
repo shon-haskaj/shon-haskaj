@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student/Software Developer
 - 📫What is the best way to contact me?: [Email](shon.haskaj45@gmail.com) 
-- 📚Studying: BSc in Honours Specialization Computer Science at the University of Western Ontario
+- 📚Studying: Honours Specialization Computer Science with a Minor in Applied Financial Modelling at the University of Western Ontario
 - ⚒️Currently Working On:
   
       ☑️ Setting up an Arch Dual boot on M1-Mac; Configuring Hyprland WM/Wayland Compositor, and working on waybar confs.

@@ -9,7 +9,7 @@
 
       ☑️ Getting the basics of ARM7 down.
 
-      ☑️ Working on a workflow automation SaaS, currently working on the website; hosted via GitHub pages; I've got a repo for it!
+      ☑️ A workflow automation SaaS, currently working on the website; hosted via GitHub pages; I've got a repo for it!
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaskajUWO/shaskajUWO)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shonh/)

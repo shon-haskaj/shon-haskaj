@@ -4,14 +4,12 @@
 - 📫What is the best way to contact me?: [Email](shon.haskaj45@gmail.com) 
 - 📚Studying: BSc in Honours Specialization Computer Science at the University of Western Ontario
 - ⚒️Currently Working On:
-
-      ☑️ A tomogachi game group project
   
-      ☑️ Configuring my Arch Linux/Windows Dual Boot
+      ☑️ Setting up an Arch Dual boot on M1-Mac; Configuring Hyprland WM/Wayland Compositor, and working on waybar confs.
 
-      ☑️ Learning ARM assembly (using Keil uVision emulator)
+      ☑️ Getting the basics of ARM7 down.
 
-      ☑️ Planning and getting inspiriation for my next solo project 
+      ☑️ Working on a workflow automation SaaS, currently working on the website; hosted via GitHub pages; I've got a repo for it!
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaskajUWO/shaskajUWO)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shonh/)

@@ -33,7 +33,7 @@ I go by **Haskaj S.** on Jane Street Puzzles leaderboards -or some variation of 
 
 Leaderboard placements so far:
 
-- [Can U Dig It? — Solution](https://www.janestreet.com/puzzles/current-puzzle/)        - May 26 - Placed: 108th
+- [Arch Madness — Open Contest](https://www.janestreet.com/puzzles/current-puzzle/)     - May 26 - Placed: 108th
 - [Can U Dig It? — Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) - Apr 26 - Placed: 93rd 
 
 ## Contact

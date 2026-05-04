@@ -25,13 +25,10 @@ I build projects that help me understand real systems more deeply: from low-leve
 I go by **Haskaj S.** on Jane Street Puzzles leaderboards -or some variation of it.
 
 - Haskaj S.
-- Haskaj S.
-- Haskaj S.
 - Shon Haskaj
-- Shon Haskaj
-- Shon Haskaj
+- Shon Haskaj (UWO '27)
 
-Leaderboard placements so far:
+**Leaderboard placements so far:**
 
 - [Arch Madness — Open Contest](https://www.janestreet.com/puzzles/current-puzzle/)     - May 26 - Placed: 108th
 - [Can U Dig It? — Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) - Apr 26 - Placed: 93rd 

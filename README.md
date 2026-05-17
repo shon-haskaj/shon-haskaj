@@ -11,6 +11,13 @@ I build projects that help me understand real systems more deeply: from low-leve
 - Comfortable working with Python, Java, C, SQL, Bash, Linux, Git, and cloud/data tooling
 - Currently building practical projects around automation, analytics, and developer tooling
 
+## Contact
+
+Personal - Email: `shon [dot] haskaj [at] gmail [dot] com`
+Educational - Email `shaskaj [at] uwo [dot] ca`
+Phone Number - `[plus] One - Four One Six - Nine Three Zero - Six Nine Eight Zero`
+
+
 ## Interests
 
 - Operating systems, Linux, shells, and low-level computing
@@ -32,11 +39,3 @@ I go by **Haskaj S.** on Jane Street Puzzles leaderboards -or some variation of 
 
 - [Arch Madness — Open Contest](https://www.janestreet.com/puzzles/current-puzzle/)     - May 26 - Placed: 108th
 - [Can U Dig It? — Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) - Apr 26 - Placed: 93rd 
-
-## Contact
-
-Email: `shon [dot] haskaj [at] gmail [dot] com`
-
----
-
-NE NW SE SW

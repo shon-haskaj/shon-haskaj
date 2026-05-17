@@ -13,11 +13,11 @@ I build projects that help me understand real systems more deeply: from low-leve
 
 ## Contact
 
-Personal - Email: `shon [dot] haskaj [at] gmail [dot] com`
+Personal Email: `shon [dot] haskaj [at] gmail [dot] com`
 
-Educational - Email `shaskaj [at] uwo [dot] ca`
+Educational Email: `shaskaj [at] uwo [dot] ca`
 
-Phone Number - `[plus] One - Four One Six - Nine Three Zero - Six Nine Eight Zero`
+Phone Number: `[plus] One - Four One Six - Nine Three Zero - Six Nine Eight Zero`
 
 
 ## Interests
